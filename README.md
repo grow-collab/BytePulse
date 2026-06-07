@@ -11,7 +11,7 @@ A high-performance, protocol-level scraper for TikTok Live built on Python `asyn
 * **Stable:** Auto-reconnect, heartbeat maintenance, and msToken management.
 
 ## Demo
-[![Click to watch demo(media/demo.png)]](media/demo.mp4)
+<video src="https://github.com/grow-collab/BytePulse/raw/main/media/demo.mp4" controls muted width="100%"></video>
 
 ## Get Access
 For inquiries regarding the full source code, technical support, or commercial licensing, please reach out via:
